@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\biz\documents\visual studio 2017\projects\final\final\source.cpp(100): warning C4129: 'C': unrecognized character escape sequence
+c:\users\biz\documents\visual studio 2017\projects\final\final\source.cpp(509): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Final.vcxproj -> C:\Users\Biz\documents\visual studio 2017\Projects\Final\Debug\Final.exe
